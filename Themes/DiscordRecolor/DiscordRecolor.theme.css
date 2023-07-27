@@ -26,7 +26,7 @@
 	--accentcolor2: 			255,115,250;			/*	Boostpink			 - 	default:	255,115,250		 - 	hex:	#ff73fa		*/
 	--linkcolor: 				0,176,244;				/*	Link Color			 - 	default:	0,176,244		 - 	hex:	#00b0f4		*/
 	--mentioncolor: 			173, 152, 236;				/*	Highlight Color		 - 	default:	250,166,26		 - 	hex:	#faa61a		*/
-	--successcolor: 			188, 69, 82;				/*	Success Color		 - 	default:	59,165,92		 - 	hex:	#3ba55c		*/
+	--successcolor: 			117, 174, 135;				/*	Success Color		 - 	default:	59,165,92		 - 	hex:	#3ba55c		*/
 	--warningcolor: 			173, 152, 236;				/*	Warning Color		 - 	default:	250,166,26		 - 	hex:	#faa61a		*/
 	--dangercolor:  			188, 69, 82;				/*	Danger Color		 - 	default:	237,66,69		 - 	hex:	#ed4245		*/
 	
@@ -38,8 +38,8 @@
 	--textdarkest: 				80,80,80;				/*	Text Color 6		 - 	default:	79,84,92		 - 	hex:	#4f545c		*/
 	
 	--backgroundaccent: 	70, 54, 78;				/*	Background Accent	 - 	default:	64,68,75		 - 	hex:	#40444b		*/
-	--backgroundprimary: 		39, 25, 46;				/*	Background 1		 - 	default:	54,57,63		 - 	hex:	#36393f		*/
-	--backgroundsecondary: 		29, 15, 36;				/*	Background 2		 - 	default:	47,49,54		 - 	hex:	#2f3136		*/
+	--backgroundprimary: 	37, 32, 39;				/*	Background 1		 - 	default:	54,57,63		 - 	hex:	#36393f		*/
+	--backgroundsecondary: 		27, 22, 29;				/*	Background 2		 - 	default:	47,49,54		 - 	hex:	#2f3136		*/
 	--backgroundsecondaryalt: 	15,15,15;				/*	Background 3		 - 	default:	41,43,47		 - 	hex:	#292b2f		*/
 	--backgroundtertiary: 		10,10,10;				/*	Background 4		 - 	default:	32,34,37		 - 	hex:	#202225		*/
 	--backgroundfloating: 		0,0,0;					/*	Background Elevated	 - 	default:	24,25,28		 - 	hex:	#18191c		*/
