@@ -4,9 +4,9 @@
 :root {
 	--font:							"gg sans", "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
 	
-	--mentioncolor: 				250,166,26;
+	--mentioncolor: 				173, 173, 255;
 	--successcolor: 				59,165,92;
-	--warningcolor: 				250,166,26;
+	--warningcolor: 				173, 173, 255;
 	--dangercolor: 					237,66,69;
 	
 	--textbrightest: 				255,255,255;
@@ -16,7 +16,7 @@
 	--textdarker: 					114,118,125;
 	--textdarkest: 					79,84,92;
 	
-	--backgroundaccent: 			64,68,75;
+	--backgroundaccent: 			173, 173, 255;
 	--backgroundprimary: 			54,57,63;
 	--backgroundsecondary: 			47,49,54;
 	--backgroundsecondaryalt: 		41,43,47;
